@@ -42,6 +42,8 @@
 
 ## C 
 
+- [Glimpse](https://github.com/glimpse-editor/Glimpse) - Fork of the GNU Image Manipulation Program
+- [snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
 - [urbackup_backend](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux
@@ -135,7 +137,7 @@
 - [proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [krita](https://github.com/KDE/krita) - Krita is a free digital painting application. Digital Painting, Creative Freedom!
 - [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications
-- [PJON](https://github.com/gioblu/PJON) - With PJON you can quickly build a network of devices for free without the need of a cloud service or a centralised platform you don’t fully control.
+- [PJON](https://github.com/gioblu/PJON) - With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control.
 - [Rebug-Toolbox](https://github.com/evilsperm/Rebug-Toolbox) - Source for the latest Rebug CFW Toolbox
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [asmjit](https://github.com/asmjit/asmjit) - Complete x86/x64 JIT and AOT Assembler for C++
@@ -225,6 +227,7 @@
 
 ## Go 
 
+- [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [git-remote-grave](https://github.com/rovaughn/git-remote-grave) - Git remote helper for encrypted repositories with NaCl.
@@ -292,6 +295,7 @@
 
 ## HTML 
 
+- [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [lionbars](https://github.com/Charuru/lionbars) - A free to use, lightweight jQuery plugin that makes scrollbars look like in OSX Lion.
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -317,11 +321,13 @@
 
 ## Java 
 
+- [snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [voltdb](https://github.com/VoltDB/voltdb) - VoltDB
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
 ## JavaScript 
 
+- [kaiwa](https://github.com/getkaiwa/kaiwa) - [UNMAINTAINED] A modern XMPP Web client
 - [smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -360,6 +366,7 @@
 - [nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
 - [tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -476,7 +483,6 @@
 ## Makefile 
 
 - [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) - Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [Lakka](https://github.com/libretro/Lakka) - Deprecated. Use https://github.com/lakkatv/Lakka-LibreELEC instead
 
 ## OCaml 
@@ -485,6 +491,7 @@
 
 ## Others 
 
+- [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [protoboard](https://github.com/electroniceel/protoboard) - Advanced protoboard layout with 1.27mm pitch for smd parts
 - [borg-releases](https://github.com/billyc/borg-releases) - Borg Backup - unofficial Windows releases
@@ -554,10 +561,13 @@
 
 ## Perl 
 
+- [SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
+- [ddclient](https://github.com/ddclient/ddclient) - Fork of the original ddclient code
 - [gitprep](https://github.com/yuki-kimoto/gitprep) - Portable GitHub system into your own server
 
 ## Python 
 
+- [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
 - [cmd](https://github.com/voussoir/cmd) - 
 - [borgmatic](https://github.com/witten/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -598,7 +608,6 @@
 - [shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [exxo](https://github.com/mbachry/exxo) - Build portable Python binaries
-- [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [supycache](https://github.com/lonetwin/supycache) - Simple yet capable caching decorator for python
@@ -666,6 +675,8 @@
 
 ## Shell 
 
+- [unlock-cryptroot](https://github.com/rhansen/unlock-cryptroot) - Script to unlock an Ubuntu or Debian encrypted root filesystem via ssh
+- [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [tarnation](https://github.com/kennyparsons/tarnation) - Simple, extensible backup/restore utility based solely on GNU Tar
 - [git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -689,6 +700,7 @@
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
 - [dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
+- [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [gitflow](https://github.com/datasift/gitflow) - HubFlow: A Git extension to make it easy to use GitFlow with GitHub.  Based on the original gitflow extension for git.
